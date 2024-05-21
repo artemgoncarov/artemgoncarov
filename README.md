@@ -36,7 +36,7 @@
 
 - 🥈 National Olympiad in Data Analysis DANO - 2nd place in 1st stage, member of the 2nd stage
 
-- 🏆 Innopolis Open in Artifical Intelligence olympiad - finalist, 10th place in leaderboard
+- 🏆 Innopolis Open in Artifical Intelligence olympiad - finalist, 6th place in ML leaderboard
 
 
 ###
