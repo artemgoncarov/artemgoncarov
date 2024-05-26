@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm 15 y.o. Ml-engineer and Data Scientist from Russia, Novosibirsk. I have been actively involved in ML, Data Analysis and NLP for 1 year.</p>
+<p align="left">I'm 15 y.o. ML-engineer and Data Scientist from Russia, Novosibirsk. I have been actively involved in ML, Data Analysis and NLP for 1 year.</p>
 
 ###
 
