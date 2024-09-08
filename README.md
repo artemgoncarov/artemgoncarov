@@ -30,6 +30,8 @@
 
 ###
 
+- 🥉 Hackathon «Цифровой прорыв: Сезон ИИ» - 3st place
+
 - 🥇 National programming championship "The Art of Code" in AI track - 1st place
 
 - 🥈 National Technological Olympiad in Infochemistry (AI) - 2nd team place, 2nd solo place
