@@ -30,7 +30,9 @@
 
 ###
 
-- 🥉 Hackathon «Цифровой прорыв: Сезон ИИ» - 3st place
+- 🥉 Hackathon «Цифровой прорыв: Сезон ИИ» Всеросс 2024 - 3st place
+
+- 🥉 Hackathon «Цифровой прорыв: Сезон ИИ» СФО 2024 - 3st place
 
 - 🥇 National programming championship "The Art of Code" in AI track - 1st place
 
