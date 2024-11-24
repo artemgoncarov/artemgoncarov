@@ -31,6 +31,10 @@
 
 ###
 
+- 🥇 Artificial Intelligence International Junior Contest (AI Challenge), Samolet - 1st place
+
+- 🥉 Russian National Contest in Artificial Intelligence - 3st place
+
 - 🥉 Hackathon «Цифровой прорыв: Сезон ИИ» Всеросс 2024 - 3st place
 
 - 🥉 Hackathon «Цифровой прорыв: Сезон ИИ» СФО 2024 - 3st place
@@ -38,8 +42,6 @@
 - 🥇 National programming championship "The Art of Code" in AI track - 1st place
 
 - 🥈 National Technological Olympiad in Infochemistry (AI) - 2nd team place, 2nd solo place
-
-- 🥈 National Olympiad in Data Analysis DANO - 2nd place in 1st stage, member of the 2nd stage
 
 - 🏆 Innopolis Open in Artifical Intelligence olympiad - finalist, 6th place in ML leaderboard
 
