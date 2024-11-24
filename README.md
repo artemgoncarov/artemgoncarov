@@ -31,9 +31,9 @@
 
 ###
 
-- 🥇 Artificial Intelligence International Junior Contest (AI Challenge), Samolet - 1st place
+- 🥇 Artificial Intelligence International Junior Contest (AI Challenge), Samolet 2024 - 1st place
 
-- 🥉 Russian National Contest in Artificial Intelligence - 3st place
+- 🥉 Russian National Contest in Artificial Intelligence 2024 - 3st place
 
 - 🥉 Hackathon «Цифровой прорыв: Сезон ИИ» Всеросс 2024 - 3st place
 
