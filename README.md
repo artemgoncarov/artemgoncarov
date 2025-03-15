@@ -34,6 +34,10 @@
 - 🥇 Artificial Intelligence International Junior Contest (AI Challenge), Samolet 2024 - 1st place
 
 - 🥇 Hackathon NTO AI 2024 - 1st place
+  
+- 🥈 National Olympiad in AI T1, 2025 - Prize winner
+
+- 🥈 National Technological Olympiad Big Data and Machine Learning, 2025 - Prize winner 
 
 - 🥉 Russian National Contest in Artificial Intelligence 2024 - 3st place
 
