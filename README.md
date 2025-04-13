@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm 15 y.o. ML-engineer and Data Scientist from Russia, Novosibirsk. I have been actively involved in ML, Data Analysis and NLP for 1 year.</p>
+<p align="left">I'm 16 y.o. ML-engineer and Data Scientist from Russia, Novosibirsk. I have been actively involved in ML, Data Analysis and NLP for 1 year.</p>
 
 ###
 
@@ -37,7 +37,9 @@
   
 - 🥈 National Olympiad in AI T1, 2025 - Prize winner
 
-- 🥈 National Technological Olympiad Big Data and Machine Learning, 2025 - Prize winner 
+- 🥈 National Technological Olympiad Big Data and Machine Learning, 2025 - Prize winner
+
+- 🥈 National Technological Olympiad Artificial Intelligence, 2025 - Prize winner 
 
 - 🥉 Russian National Contest in Artificial Intelligence 2024 - 3st place
 
