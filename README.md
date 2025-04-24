@@ -84,18 +84,6 @@
 
 ###
 
-<h3 align="left">📓  Passed courses </h3>
-
-| Name of the course  | Date |
-| ------------- | ------------- |
-| Введение в Data Sciense и машинное обучение - Karpov courses | October 2023 - November 2023  |
-| Deep Learning School осень 2023 - МФТИ | November 2023 - January 2024 |
-| Введение в соревновательный Data Science - Alexandr Milenkin | February 2024 - April 2024 |
-| Нейронные сети. Теория - Computer Science center  | March 2024 - April 2024 |
-| Deep Learning School весна 2024 - МФТИ | May 2024 - Now |
-
-###
-
 <h3 align="left">🔥   My stats :</h3>
 
 ###
